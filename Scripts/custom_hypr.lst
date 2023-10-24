@@ -10,7 +10,6 @@ network-manager-applet
 bluez
 bluez-utils
 blueman
-sddm-git
 qt5-wayland
 qt6-wayland
 qt5-quickcontrols
